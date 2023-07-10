@@ -1,33 +1,6 @@
 <a name="readme-top"></a>
 
 
-
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-
-
-<div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>New repo</b></h3>
-
-</div>
-
-
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -41,14 +14,14 @@ REQUIRED SECTIONS:
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
+
   - [Deployment](#deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
+- [👥 Authors](Sohail-Aslam)
+- [🔭 Future Features](#spell checking)
+
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+
+- [📝 License](MIT license)
 
 # 📖 [New repo] <a name="about-project"></a>
 
@@ -84,16 +57,7 @@ Error detection is used in software development to analyze source code and ident
 
 - **[Automated Checks]**
 - **[Code Quality Analysis]**
-- **[Error detection]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://google.com)
-
+- **[Error detection]*
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -121,12 +85,6 @@ Formatting consistency verify that the code follows a consistent indentation sty
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
