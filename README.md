@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-  <h3><b>Techwise README Template</b></h3>
+  <h3><b>New repo</b></h3>
 </div>
 
 # 📗 Table of Contents
